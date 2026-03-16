@@ -1,5 +1,5 @@
 AI Sentiment Insight Engine
-A professional-grade web application that leverages IBM Watson’s BERT-based NLP models to perform real-time sentiment analysis on user-provided text. This project demonstrates full-stack Python development, modular package design, and rigorous automated testing for production-ready AI services.
+A web application that leverages IBM Watson’s BERT-based NLP models to perform real-time sentiment analysis on user-provided text. This project demonstrates full-stack Python development, modular package design, and rigorous automated testing for production-ready AI services.
 
 🚀 Key Features
 AI-Powered Analysis: Utilizes the BERT (Bidirectional Encoder Representations from Transformers) workflow to accurately categorize text sentiment as Positive, Negative, or Neutral.
